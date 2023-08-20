@@ -94,7 +94,7 @@ End With
     ActiveWindow.FreezePanes = True
     
     'Set Zoom ratio
-    ActiveWindow.Zoom = 100
+    ActiveWindow.Zoom = 110
     
     'Refresh screen for update calculated data range
     Application.ScreenUpdating = True
